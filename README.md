@@ -12,4 +12,7 @@ Create a single page React application with Redux for state management.
   - Bottom: an action button that will open the subscribers further data (accounts, calls), the data should be displayed in a modal window or a drawer
 
 ## Data
-Use the following API to fetch subscribers data: https://604868d1b801a40017ccdac6.mockapi.io/api/v1/subscriber . Documentation can be found here: https://mockapi.io/docs
+Use the following API to fetch subscribers data: https://604868d1b801a40017ccdac6.mockapi.io/api/v1/subscriber.
+```
+Documentation can be found here: https://mockapi.io/docs
+```
