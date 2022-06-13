@@ -14,7 +14,7 @@ Create a single page React application with Redux for state management.
 ## Data
 Use the following API to fetch subscribers data:
 ```
-https://604868d1b801a40017ccdac6.mockapi.io/api/v1/subscriber.
+https://604868d1b801a40017ccdac6.mockapi.io/api/v1/subscriber
 ```
 
 Documentation can be found here:
